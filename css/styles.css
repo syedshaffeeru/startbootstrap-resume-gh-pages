@@ -654,6 +654,13 @@ progress {
   height: 1em;
 }
 
+.projects {
+
+  height: 7em;
+  width: 11em;
+}
+
+
 .img-fluid {
   max-width: 100%;
   height: auto;
