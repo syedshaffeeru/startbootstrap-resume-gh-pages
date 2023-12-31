@@ -654,12 +654,22 @@ progress {
   height: 1em;
 }
 
-.projects {
+/* .projects {
 
   height: 7em;
   width: 11em;
+} */
+
+
+.projects {
+
+  height: 5em;
 }
 
+.appflow {
+
+  height: 10em;
+}
 
 .img-fluid {
   max-width: 100%;
