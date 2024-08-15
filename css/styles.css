@@ -671,6 +671,11 @@ progress {
   height: 10em;
 }
 
+.appflow-thrasio {
+
+  height: 5em;
+}
+
 .img-fluid {
   max-width: 100%;
   height: auto;
