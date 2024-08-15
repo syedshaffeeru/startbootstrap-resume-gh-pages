@@ -663,12 +663,17 @@ progress {
 
 .projects {
 
-  height: 5em;
+  height: 3em;
 }
 
 .appflow {
 
   height: 10em;
+}
+
+.appflow-thrasio {
+
+  height: 5em;
 }
 
 .img-fluid {
